@@ -1,6 +1,6 @@
 <p align="center">
 <picture>
-<img width="160" height="160"  alt="XPanel" src="https://raw.githubusercontent.com/SamahaAbbas/samahabros/tree/main/images/logo.png">
+<img width="160" height="160"  alt="XPanel" src="https://github.com/SamahaAbbas/samahabros/blob/main/images/logo.png?raw=true">
 </picture>
   </p> 
 <p align="center">
