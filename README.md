@@ -4,8 +4,8 @@
 </picture>
   </p> 
 <p align="center">
-<h1 align="center"/>Rocket SSH</h1>
-<h6 align="center">SSH User Management<h6>
+<h1 align="center"/>SAMAHA SSH</h1>
+<h6 align="center">SSH User Management and MORE<h6>
 </p>
 
 <p align="center">
